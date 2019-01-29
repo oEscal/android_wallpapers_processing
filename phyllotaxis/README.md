@@ -8,9 +8,9 @@
   - Color is different in each dot, and changes in each iteration, making a beautiful degrade
   - Done with [Processing](https://processing.org/)
   - Some screanshots:
-![Screenshot 1](https://github.com/oEscal/android_wallpapers_processing/blob/master/phyllotaxis/Features/Screenshot_20190129-023803.png)
-![Screenshot 1](https://github.com/oEscal/android_wallpapers_processing/blob/master/phyllotaxis/Features/Screenshot_20190129-023811.png)
-![Screenshot 1](https://github.com/oEscal/android_wallpapers_processing/blob/master/phyllotaxis/Features/Screenshot_20190129-023916.png)
+![Screenshot 1](https://github.com/oEscal/android_wallpapers_processing/blob/master/phyllotaxis/Features/Screenshot_20190129-023803.png | width=48)
+![Screenshot 2](https://github.com/oEscal/android_wallpapers_processing/blob/master/phyllotaxis/Features/Screenshot_20190129-023811.png)
+![Screenshot 3](https://github.com/oEscal/android_wallpapers_processing/blob/master/phyllotaxis/Features/Screenshot_20190129-023916.png)
 
 
 ### Changing the source code
